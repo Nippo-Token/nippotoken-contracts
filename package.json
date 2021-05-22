@@ -1,0 +1,29 @@
+{
+  "name": "nippotoken",
+  "version": "1.0.0",
+  "description": "## Requirements - truffle v5.1.43 (Solidity v0.5.16 (solc-js), Node v14.8.0, Web3.js v1.2.1) - ganache test rpc.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "@truffle/hdwallet-provider": "^1.4.0",
+    "bech32-buffer": "^0.1.3",
+    "truffle": "^5.3.7",
+    "web3": "^1.3.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nippo-Token/nippotoken-contracts.git"
+  },
+  "author": "Nippo Team",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nippo-Token/nippotoken-contracts/issues"
+  },
+  "homepage": "https://github.com/Nippo-Token/nippotoken-contracts#readme"
+}
